@@ -96,7 +96,7 @@ $ npm start
 | S.No. | Name | Role | GitHub Username |
 | --------------- | --------------- | --------------- | --------------- |
 | 1. | Rishi Ranjan (Team Leader) | Machine Learning Development | [@RiH-137](https://github.com/RiH-137)  |
-| 2. | Unnatidhar Sharma | Backend Development | [@Unnatidharsharma](https://github.com/Unnatidharsharma) |
+| 2. | Unnatidhar Sharma | Machine Learning Development | [@Unnatidharsharma](https://github.com/Unnatidharsharma) |
 | 3. | Saurabh Anand | Backend Development | [@saurabh4742](https://github.com/saurabh4742) |
 | 4. | Anshika Jaiswal | Frontend Development| [@anshijais1](https://github.com/anshijais1)  |
 | 5. | Gargi Gupta | Machine Learning Development | [@GargiGuptaaaa](https://github.com/GargiGuptaaaa)  |
